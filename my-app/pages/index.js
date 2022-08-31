@@ -13,6 +13,7 @@ import { providers, BigNumber, Contract, utils } from "ethers";
 
 
 export default function Home() {
+  // just trying to test something
   // create a BigNumber `0`
   const zero = BigNumber.from(0);
 
